@@ -108,7 +108,9 @@ df_pitcher = standardize_pitcher_stats(df_pitcher)
 df_pitcher = apply_position_filters(df_pitcher, position_key="pitcher")
 df_pitcher_styled = style_pitcher_stats(df_pitcher)
 
+st.subheader("Pitcher Stats (Individual)")
 st.dataframe(df_pitcher_styled, use_container_width=True)
+st.subheader("Pitcher Stats (Team Total)")
 st.dataframe(style_pitcher_stats(groupby_team(df_pitcher)), use_container_width=True)
 
 df_batter['NSB'] = df_batter['SB'] + df_batter['CS']
@@ -118,5 +120,7 @@ df_batter = standardize_batter_stats(df_batter)
 df_batter = apply_position_filters(df_batter, position_key="batter")
 df_batter_styled = style_batter_stats(df_batter)
 
+st.subheader("Batter Stats (Individual)")
 st.dataframe(df_batter_styled, use_container_width=True)
+st.subheader("Batter Stats (Team Total)")
 st.dataframe(style_pitcher_stats(groupby_team(df_batter)), use_container_width=True)

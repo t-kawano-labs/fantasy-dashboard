@@ -1,0 +1,681 @@
+player_id,name,position_type,eligible_positions,percent_owned,status,team_key,team_name
+9123,Jameson Taillon,P,"['SP', 'P']",18,,,Waiver
+10186,J.D. Davis,B,"['1B', '3B', 'Util']",0,,,Waiver
+10337,Omar Narváez,B,"['C', 'Util']",0,,,Waiver
+10413,Anthony Banda,P,"['RP', 'P']",10,,,Waiver
+10677,Casey Lawrence,P,"['RP', 'P']",0,,,Waiver
+10829,Tomás Nido,B,"['C', 'Util']",0,,,Waiver
+11759,Michael Toglia,B,"['1B', 'RF', 'Util']",48,,,Waiver
+12038,Landon Knack,P,"['SP', 'P']",9,,,Waiver
+12100,Otto Lopez,B,"['2B', 'SS', 'Util']",39,,,Waiver
+12275,Dylan Lee,P,"['RP', 'P']",3,,,Waiver
+12621,Oscar González,B,"['LF', 'Util']",0,,,Waiver
+12628,Jason Alexander,P,"['SP', 'RP', 'P']",0,,,Waiver
+60623,Jake Mangum,B,"['LF', 'CF', 'RF', 'Util']",12,,,Waiver
+60689,Coco Montes,B,"['2B', '3B', 'Util']",0,,,Waiver
+61737,Caleb Boushley,P,"['RP', 'P']",0,,,Waiver
+62570,Logan VanWey,P,"['RP', 'P']",0,,,Waiver
+7590,Justin Verlander,P,"['SP', 'P']",30,,,FA
+8185,Carlos Carrasco,P,"['SP', 'P']",1,,,FA
+8270,Charlie Morton,P,"['SP', 'P']",12,,,FA
+8652,Martín Pérez,P,"['SP', 'P']",28,,,FA
+8871,Shelby Miller,P,"['RP', 'P']",1,,,FA
+8918,Alex Cobb,P,"['SP', 'P', 'IL']",1,IL15,,FA
+9121,Gerrit Cole,P,"['SP', 'P', 'IL']",16,IL60,,FA
+9168,Patrick Corbin,P,"['SP', 'P']",0,,,FA
+9173,Miles Mikolas,P,"['SP', 'P']",3,,,FA
+9176,Jose Quintana,P,"['SP', 'P']",2,,,FA
+9272,Justin Wilson,P,"['RP', 'P']",0,,,FA
+9321,Taijuan Walker,P,"['SP', 'P']",11,,,FA
+9329,Michael Wacha,P,"['SP', 'P']",32,,,FA
+9350,T.J. McFarland,P,"['RP', 'P']",0,,,FA
+9358,Ryan Pressly,P,"['RP', 'P']",84,,,FA
+9388,Ryan Brasier,P,"['SP', 'RP', 'P', 'IL']",1,IL15,,FA
+9402,Caleb Thielbar,P,"['RP', 'P']",0,,,FA
+9454,Michael Tonkin,P,"['RP', 'P', 'IL']",0,IL15,,FA
+9455,Luis García,P,"['RP', 'P']",0,,,FA
+9544,Lucas Sims,P,"['RP', 'P']",0,,,FA
+9546,Eduardo Rodriguez,P,"['SP', 'P']",22,,,FA
+9559,Pierce Johnson,P,"['RP', 'P']",1,,,FA
+9563,Robert Stephenson,P,"['RP', 'P', 'IL']",0,IL60,,FA
+9567,Jon Gray,P,"['SP', 'P', 'IL']",1,IL60,,FA
+9575,Lance McCullers Jr.,P,"['SP', 'P', 'IL']",2,IL15,,FA
+9586,Andrew Heaney,P,"['SP', 'P']",13,,,FA
+9598,Rafael Montero,P,"['RP', 'P']",0,,,FA
+9599,Steven Matz,P,"['SP', 'RP', 'P']",1,,,FA
+9632,Luke Jackson,P,"['RP', 'P']",62,,,FA
+9637,Marcus Stroman,P,"['SP', 'P']",6,DTD,,FA
+9640,Lucas Giolito,P,"['SP', 'P', 'IL']",5,IL15,,FA
+9651,Nick Martinez,P,"['SP', 'RP', 'P']",21,,,FA
+9653,Tommy Kahnle,P,"['RP', 'P']",15,,,FA
+9758,Kyle Hendricks,P,"['SP', 'RP', 'P']",3,,,FA
+9821,Kendall Graveman,P,"['RP', 'P', 'IL']",0,IL15,,FA
+9844,Danny Coulombe,P,"['RP', 'P']",1,,,FA
+9863,Kyle Freeland,P,"['SP', 'P']",10,,,FA
+9868,Sean Newcomb,P,"['SP', 'RP', 'P']",4,,,FA
+9872,José Berríos,P,"['SP', 'P']",78,,,FA
+9881,Ben Lively,P,"['SP', 'P']",8,,,FA
+9949,Michael Lorenzen (Pitcher),P,"['SP', 'RP', 'P']",9,,,FA
+9987,Joe Ross,P,"['SP', 'RP', 'P']",0,,,FA
+10011,Matthew Boyd,P,"['SP', 'P']",28,,,FA
+10027,Frankie Montas Jr.,P,"['SP', 'P', 'IL']",1,IL15,,FA
+10031,Tyler Anderson,P,"['SP', 'P']",3,,,FA
+10047,Shawn Armstrong,P,"['SP', 'RP', 'P']",0,,,FA
+10048,Colin Rea,P,"['SP', 'RP', 'P']",1,,,FA
+10072,Scott Alexander,P,"['RP', 'P']",0,,,FA
+10096,Jorge López,P,"['RP', 'P']",1,,,FA
+10105,Kenta Maeda,P,"['SP', 'RP', 'P']",0,,,FA
+10109,Steven Okert,P,"['RP', 'P']",1,,,FA
+10133,Taylor Rogers,P,"['RP', 'P']",2,,,FA
+10144,Trevor Williams,P,"['SP', 'P']",3,,,FA
+10147,Ryan Yarbrough,P,"['RP', 'P']",0,,,FA
+10152,Reynaldo López,P,"['SP', 'P', 'IL']",52,IL60,,FA
+10176,Antonio Senzatela,P,"['SP', 'P']",1,,,FA
+10178,Sam Moll,P,"['RP', 'P']",0,,,FA
+10229,Erick Fedde,P,"['SP', 'P']",21,,,FA
+10246,Matt Bowman,P,"['RP', 'P']",0,,,FA
+10269,Derek Law,P,"['RP', 'P', 'IL']",1,IL15,,FA
+10285,Albert Suárez,P,"['SP', 'RP', 'P', 'IL']",1,IL60,,FA
+10293,Chad Green,P,"['RP', 'P']",6,,,FA
+10296,Mike Clevinger,P,"['SP', 'RP', 'P']",5,,,FA
+10311,Chris Stratton,P,"['RP', 'P']",0,,,FA
+10313,Jacob Barnes,P,"['RP', 'P']",0,,,FA
+10325,Brock Stewart,P,"['RP', 'P', 'IL']",0,IL15,,FA
+10336,José Leclerc,P,"['RP', 'P']",1,,,FA
+10370,Brent Suter,P,"['SP', 'RP', 'P']",0,,,FA
+10391,Wandy Peralta,P,"['RP', 'P']",2,,,FA
+10393,Joe Mantiply,P,"['RP', 'P']",0,,,FA
+10402,Germán Márquez,P,"['SP', 'P']",2,,,FA
+10412,Michael Kopech,P,"['RP', 'P', 'IL']",7,IL15,,FA
+10418,Brad Keller,P,"['RP', 'P']",0,,,FA
+10423,Michael Soroka,P,"['SP', 'RP', 'P', 'IL']",1,IL15,,FA
+10424,Ian Anderson,P,"['SP', 'P']",0,,,FA
+10426,Joey Wentz,P,"['RP', 'P']",0,,,FA
+10431,Keegan Akin,P,"['RP', 'P']",3,,,FA
+10444,Bryan Hudson,P,"['RP', 'P']",3,,,FA
+10455,Tyler Mahle,P,"['SP', 'P']",14,,,FA
+10462,Triston McKenzie,P,"['SP', 'P']",1,,,FA
+10468,Joe Jiménez,P,"['RP', 'P', 'IL']",1,IL60,,FA
+10469,Tyler Alexander,P,"['SP', 'RP', 'P']",3,,,FA
+10479,Forrest Whitley,P,"['RP', 'P', 'IL']",0,IL15,,FA
+10488,Scott Blewett,P,"['RP', 'P']",0,,,FA
+10494,Jakob Junis,P,"['SP', 'RP', 'P']",1,,,FA
+10509,Walker Buehler,P,"['SP', 'P']",49,,,FA
+10513,Braxton Garrett,P,"['SP', 'P', 'IL']",0,IL60,,FA
+10549,Grant Holmes,P,"['SP', 'RP', 'P']",27,,,FA
+10573,Cal Quantrill,P,"['SP', 'P']",1,,,FA
+10574,Adrian Morejon,P,"['RP', 'P']",2,,,FA
+10575,Chris Paddack,P,"['SP', 'P']",2,,,FA
+10606,Ryne Stanek,P,"['RP', 'P']",1,,,FA
+10644,Cionel Pérez,P,"['RP', 'P']",0,,,FA
+10657,Paul Sewald,P,"['RP', 'P']",4,,,FA
+10660,Jordan Montgomery,P,"['SP', 'P', 'IL']",0,IL60,,FA
+10681,Mark Leiter Jr.,P,"['RP', 'P']",2,,,FA
+10691,Emilio Pagán,P,"['RP', 'P']",19,,,FA
+10711,John Brebbia,P,"['RP', 'P']",0,,,FA
+10736,Hoby Milner,P,"['RP', 'P']",0,,,FA
+10756,Paul Blackburn,P,"['SP', 'P', 'IL']",0,IL15,,FA
+10763,Andrew Kittredge,P,"['RP', 'P', 'IL']",1,IL15,,FA
+10767,José Ruiz,P,"['RP', 'P']",0,,,FA
+10787,Tim Mayza,P,"['RP', 'P']",0,,,FA
+10794,A.J. Minter,P,"['RP', 'P']",5,,,FA
+10846,Bryse Wilson,P,"['SP', 'RP', 'P']",0,,,FA
+10847,Kyle Wright,P,"['SP', 'P', 'IL']",0,IL15,,FA
+10848,DL Hall,P,"['SP', 'RP', 'P', 'IL']",0,IL60,,FA
+10850,Jalen Beeks,P,"['RP', 'P']",0,,,FA
+10860,Alex Lange,P,"['RP', 'P', 'IL']",0,IL60,,FA
+10861,Brendon Little,P,"['RP', 'P']",2,,,FA
+10869,Aaron Civale,P,"['SP', 'P', 'IL']",3,IL15,,FA
+10880,Alex Faedo,P,"['SP', 'RP', 'P', 'IL']",0,IL15,,FA
+10882,Gregory Soto,P,"['RP', 'P']",0,,,FA
+10894,Griffin Canning,P,"['SP', 'P']",10,,,FA
+10901,Dennis Santana,P,"['RP', 'P']",20,,,FA
+10903,Edward Cabrera,P,"['SP', 'P']",4,,,FA
+10909,Trevor Rogers,P,"['SP', 'P', 'IL']",0,IL15,,FA
+10921,David Peterson,P,"['SP', 'P']",33,,,FA
+10926,Clarke Schmidt,P,"['SP', 'P', 'IL']",54,IL15,,FA
+10931,JoJo Romero,P,"['RP', 'P']",3,,,FA
+10947,Jordan Hicks,P,"['SP', 'RP', 'P']",35,,,FA
+10958,Ryan Borucki,P,"['RP', 'P']",1,,,FA
+10960,Nate Pearson,P,"['RP', 'P']",0,,,FA
+10970,Nestor Cortes,P,"['SP', 'P', 'IL']",23,IL15,,FA
+10985,Tyler Kinley,P,"['RP', 'P']",1,,,FA
+10986,Tim Hill,P,"['RP', 'P']",0,,,FA
+10997,Lou Trivino,P,"['RP', 'P']",0,,,FA
+10998,Scott Barlow,P,"['RP', 'P']",1,,,FA
+11006,Austin Gomber,P,"['SP', 'P', 'IL']",0,IL15,,FA
+11011,Seranthony Domínguez,P,"['RP', 'P']",2,,,FA
+11035,Zack Littell,P,"['SP', 'P']",12,,,FA
+11036,Caleb Ferguson,P,"['RP', 'P']",1,,,FA
+11044,Jonathan Loáisiga,P,"['RP', 'P', 'IL']",0,IL15,,FA
+11050,Drew Smith,P,"['RP', 'P', 'IL']",0,IL60,,FA
+11052,Evan Phillips,P,"['RP', 'P', 'IL']",6,IL15,,FA
+11064,Enyel De Los Santos,P,"['RP', 'P']",0,,,FA
+11082,Jesús Tinoco,P,"['RP', 'P', 'IL']",2,IL15,,FA
+11091,Ian Gibaut,P,"['RP', 'P']",0,,,FA
+11112,Brusdar Graterol,P,"['RP', 'P', 'IL']",0,IL60,,FA
+11117,Ranger Suárez,P,"['SP', 'P', 'IL']",34,IL15,,FA
+11121,Jeffrey Springs,P,"['SP', 'P']",50,,,FA
+11139,Ryan Burr,P,"['SP', 'RP', 'P', 'IL']",0,IL15,,FA
+11142,Ian Hamilton,P,"['RP', 'P']",0,,,FA
+11168,John Means,P,"['SP', 'P', 'IL']",0,IL60,,FA
+11192,Julian Merryweather,P,"['RP', 'P']",0,,,FA
+11193,Joel Payamps,P,"['RP', 'P']",5,,,FA
+11195,Jacob Webb,P,"['RP', 'P']",0,,,FA
+11203,Jimmy Herget,P,"['RP', 'P']",0,,,FA
+11204,Sam Hentges,P,"['RP', 'P', 'IL']",0,IL60,,FA
+11207,Justin Lawrence,P,"['RP', 'P']",0,,,FA
+11211,José Suarez,P,"['SP', 'RP', 'P']",0,,,FA
+11214,Josh Sborz,P,"['RP', 'P', 'IL']",0,IL60,,FA
+11227,JT Brubaker,P,"['SP', 'P', 'IL']",0,IL60,,FA
+11236,Erik Swanson,P,"['RP', 'P', 'IL']",0,IL15,,FA
+11241,Brock Burke,P,"['RP', 'P']",0,,,FA
+11247,Trent Thornton,P,"['RP', 'P']",0,,,FA
+11251,Merrill Kelly,P,"['SP', 'P']",27,,,FA
+11253,Jordan Romano,P,"['RP', 'P']",51,,,FA
+11255,Reed Garrett,P,"['RP', 'P']",4,,,FA
+11315,Cristian Javier,P,"['SP', 'P', 'IL']",1,IL60,,FA
+11320,Jackson Kowar,P,"['RP', 'P', 'IL']",0,IL60,,FA
+11322,Daniel Lynch IV,P,"['SP', 'RP', 'P']",1,,,FA
+11331,Tony Gonsolin,P,"['SP', 'P', 'IL']",4,IL15,,FA
+11332,Michael Grove,P,"['RP', 'P', 'IL']",0,IL60,,FA
+11344,Jorge Alcala,P,"['RP', 'P']",0,,,FA
+11354,Luis Medina,P,"['SP', 'P', 'IL']",0,IL60,,FA
+11357,Trevor Stephan,P,"['RP', 'P', 'IL']",0,IL15,,FA
+11379,Ryan Weathers,P,"['SP', 'P', 'IL']",7,IL15,,FA
+11397,Matthew Liberatore,P,"['SP', 'RP', 'P']",5,,,FA
+11400,Tyler Phillips,P,"['SP', 'P']",0,,,FA
+11427,Brenan Hanifee,P,"['SP', 'RP', 'P']",0,,,FA
+11428,Dean Kremer,P,"['SP', 'P']",5,,,FA
+11431,Kutter Crawford,P,"['SP', 'P', 'IL']",5,IL15,,FA
+11447,Eli Morgan,P,"['RP', 'P']",0,,,FA
+11470,Carlos Hernández,P,"['RP', 'P']",0,,,FA
+11478,Patrick Sandoval,P,"['SP', 'P', 'IL']",0,IL60,,FA
+11480,Josiah Gray,P,"['SP', 'P', 'IL']",0,IL60,,FA
+11489,Aaron Ashby,P,"['RP', 'P', 'IL']",0,IL15,,FA
+11503,Simeon Woods Richardson,P,"['SP', 'P']",3,,,FA
+11536,Camilo Doval,P,"['RP', 'P']",21,,,FA
+11537,Gregory Santos,P,"['RP', 'P']",0,,,FA
+11547,Tobias Myers,P,"['SP', 'P', 'IL']",5,IL15,,FA
+11548,Colin Poche,P,"['RP', 'P']",0,,,FA
+11551,Mason Englert,P,"['RP', 'P']",0,,,FA
+11560,Jake Irvin,P,"['SP', 'P']",3,,,FA
+11593,Tayler Scott,P,"['RP', 'P']",1,,,FA
+11608,José Urquidy,P,"['SP', 'P', 'IL']",0,IL60,,FA
+11626,Kevin Ginkel,P,"['RP', 'P', 'IL']",3,IL15,,FA
+11634,John Schreiber,P,"['RP', 'P']",1,,,FA
+11648,Cole Sulser,P,"['RP', 'P']",0,,,FA
+11653,Gabe Speier,P,"['RP', 'P']",0,,,FA
+11663,Angel Perdomo,P,"['RP', 'P']",0,,,FA
+11684,Kyle Hart,P,"['SP', 'P']",1,,,FA
+11689,Luis Gil,P,"['SP', 'P', 'IL']",29,IL60,,FA
+11698,Tyson Miller,P,"['RP', 'P', 'IL']",1,IL15,,FA
+11699,Manuel Rodríguez,P,"['RP', 'P']",0,,,FA
+11704,Garrett Cleavinger,P,"['RP', 'P']",1,,,FA
+11727,Blake Walston,P,"['RP', 'P', 'IL']",0,IL60,,FA
+11774,Jack Kochanowicz,P,"['SP', 'P']",4,,,FA
+11806,Yoendrys Gómez,P,"['RP', 'P']",0,,,FA
+11815,Erik Miller,P,"['SP', 'RP', 'P']",3,,,FA
+11820,Quinn Priester,P,"['SP', 'P']",1,,,FA
+11823,Joey Cantillo,P,"['SP', 'P']",0,,,FA
+11829,Brandon Williamson,P,"['SP', 'P', 'IL']",0,IL60,,FA
+11838,Johan Oviedo,P,"['SP', 'P', 'IL']",0,IL60,,FA
+11840,Zack Thompson,P,"['P', 'IL']",0,IL60,,FA
+11854,Alek Manoah,P,"['SP', 'P', 'IL']",1,IL60,,FA
+11863,Jackson Rutledge,P,"['SP', 'P']",0,,,FA
+11889,Ryan Thompson,P,"['RP', 'P']",1,,,FA
+11894,Nick Sandlin,P,"['RP', 'P']",1,,,FA
+11902,Shawn Dubin,P,"['RP', 'P', 'IL']",0,IL15,,FA
+11903,Luis Garcia,P,"['SP', 'P', 'IL']",1,IL60,,FA
+11926,Reid Detmers,P,"['SP', 'P']",1,,,FA
+11968,Bryce Jarvis,P,"['RP', 'P']",0,,,FA
+11977,Max Kranick,P,"['SP', 'RP', 'P']",1,,,FA
+11979,Nick Mears,P,"['RP', 'P']",0,,,FA
+11998,Bryan Baker,P,"['RP', 'P']",0,,,FA
+12007,Cade Cavalli,P,"['SP', 'P', 'IL']",1,IL15,,FA
+12014,Clayton Beeter,P,"['RP', 'P', 'IL']",0,IL15,,FA
+12045,Bennett Sousa,P,"['RP', 'P']",0,,,FA
+12059,John King,P,"['RP', 'P']",0,,,FA
+12067,Justin Topa,P,"['RP', 'P']",0,,,FA
+12092,Eduard Bazardo,P,"['RP', 'P']",0,,,FA
+12093,Carlos Vargas,P,"['RP', 'P']",0,,,FA
+12095,Angel Zerpa,P,"['RP', 'P']",0,,,FA
+12104,Bailey Falter,P,"['SP', 'P']",1,,,FA
+12105,Mason Thompson,P,"['RP', 'P', 'IL']",0,IL60,,FA
+12110,Will Vest,P,"['RP', 'P']",1,,,FA
+12114,Tyler Wells,P,"['SP', 'P', 'IL']",0,IL60,,FA
+12118,Slade Cecconi,P,"['SP', 'RP', 'P', 'IL']",0,IL15,,FA
+12120,Bryce Elder,P,"['SP', 'P']",1,,,FA
+12156,Cole Sands,P,"['RP', 'P']",2,,,FA
+12163,Jeff Criswell,P,"['RP', 'P', 'IL']",0,IL15,,FA
+12169,Carmen Mlodzinski,P,"['SP', 'RP', 'P']",1,,,FA
+12194,Anthony Bender,P,"['RP', 'P']",9,,,FA
+12202,Zach Thompson,P,"['RP', 'P']",0,,,FA
+12205,Sam Long,P,"['RP', 'P']",0,,,FA
+12211,Jake Cousins,P,"['RP', 'P', 'IL']",0,IL60,,FA
+12215,Tylor Megill,P,"['SP', 'P']",56,,,FA
+12242,Tyler Gilbert,P,"['RP', 'P']",0,,,FA
+12258,Scott Effross,P,"['RP', 'P', 'IL']",0,IL15,,FA
+12265,Ryan Feltner,P,"['SP', 'P']",2,DTD,,FA
+12268,Kaleb Ort,P,"['RP', 'P', 'IL']",0,IL15,,FA
+12274,Dauri Moreta,P,"['RP', 'P', 'IL']",0,IL60,,FA
+12278,Matt Brash,P,"['RP', 'P', 'IL']",2,IL15,,FA
+12291,Elvin Rodríguez,P,"['SP', 'P']",0,,,FA
+12305,Randy Rodríguez,P,"['RP', 'P']",3,,,FA
+12324,James McArthur,P,"['RP', 'P', 'IL']",0,IL15,,FA
+12327,Ethan Roberts,P,"['RP', 'P']",0,,,FA
+12328,Ronny Henriquez,P,"['RP', 'P']",0,,,FA
+12329,Josh Winckowski,P,"['SP', 'RP', 'P']",0,,,FA
+12330,Brayan Bello,P,"['SP', 'P', 'IL']",14,IL15,,FA
+12333,JP Sears,P,"['SP', 'P']",14,,,FA
+12334,Collin Snider,P,"['RP', 'P']",0,,,FA
+12337,José Buttó,P,"['SP', 'RP', 'P']",3,,,FA
+12345,Kyle Bradish,P,"['SP', 'P', 'IL']",5,IL60,,FA
+12347,Logan Gillaspie,P,"['RP', 'P']",0,,,FA
+12356,Ryne Nelson,P,"['SP', 'P']",1,,,FA
+12366,AJ Smith-Shawver,P,"['SP', 'P']",16,,,FA
+12368,Victor Vodnik,P,"['RP', 'P']",0,,,FA
+12376,Chris Murphy,P,"['RP', 'P', 'IL']",0,IL60,,FA
+12392,Graham Ashcraft,P,"['SP', 'RP', 'P']",4,,,FA
+12395,Andrew Abbott,P,"['SP', 'P', 'IL']",4,IL15,,FA
+12418,Sean Burke,P,"['SP', 'P']",11,,,FA
+12422,Jackson Jobe,P,"['RP', 'P']",49,,,FA
+12423,Ty Madden,P,"['RP', 'P', 'IL']",0,IL60,,FA
+12429,Reese Olson,P,"['SP', 'P']",33,,,FA
+12438,Chayce McDermott,P,"['SP', 'P', 'IL']",0,IL15,,FA
+12446,Alec Marsh,P,"['SP', 'P', 'IL']",0,IL15,,FA
+12448,Noah Murdock,P,"['RP', 'P']",0,,,FA
+12452,Sam Bachman,P,"['RP', 'P', 'IL']",0,IL15,,FA
+12453,Ky Bush,P,"['SP', 'P', 'IL']",0,IL60,,FA
+12495,Ken Waldichuk,P,"['SP', 'RP', 'P', 'IL']",0,IL60,,FA
+12497,Hayden Wesneski,P,"['SP', 'RP', 'P']",19,,,FA
+12500,Randy Vásquez,P,"['SP', 'P']",2,,,FA
+12523,Robert Gasser,P,"['SP', 'P', 'IL']",1,IL60,,FA
+12585,Mitchell Parker,P,"['SP', 'P']",38,,,FA
+12590,Ronel Blanco,P,"['SP', 'P']",51,,,FA
+12591,Andre Pallante,P,"['SP', 'RP', 'P']",4,,,FA
+12593,Tanner Banks,P,"['RP', 'P']",0,,,FA
+12603,Penn Murfee,P,"['RP', 'P']",0,,,FA
+12604,Beau Brieske,P,"['SP', 'RP', 'P']",4,,,FA
+12609,Danny Young,P,"['RP', 'P']",0,,,FA
+12616,Colin Holderman,P,"['RP', 'P', 'IL']",1,IL15,,FA
+12617,Davis Martin,P,"['SP', 'P']",1,,,FA
+12630,Jared Koenig,P,"['SP', 'RP', 'P']",2,,,FA
+12635,Jake Bird,P,"['RP', 'P']",0,,,FA
+12658,Huascar Brazoban,P,"['RP', 'P']",0,,,FA
+12661,Brennan Bernardino,P,"['SP', 'RP', 'P']",0,,,FA
+12665,Hunter Gaddis,P,"['RP', 'P']",13,,,FA
+12673,Andrew Nardi,P,"['RP', 'P', 'IL']",0,IL60,,FA
+12677,Bryan Hoeing,P,"['RP', 'P', 'IL']",0,IL15,,FA
+12682,Javier Assad,P,"['SP', 'P', 'IL']",1,IL15,,FA
+12685,Greg Weissert,P,"['RP', 'P']",0,,,FA
+12686,Zack Kelly,P,"['SP', 'RP', 'P']",0,,,FA
+12690,Fernando Cruz,P,"['SP', 'RP', 'P']",5,,,FA
+12699,Luis L. Ortiz,P,"['SP', 'RP', 'P']",4,,,FA
+12709,Prelander Berroa,P,"['RP', 'P', 'IL']",0,IL60,,FA
+12713,Jhony Brito,P,"['RP', 'P', 'IL']",0,IL60,,FA
+12715,Sean Reynolds,P,"['RP', 'P', 'IL']",0,IL15,,FA
+12717,Connor Thomas,P,"['RP', 'P', 'IL']",0,IL15,,FA
+12723,Jose A. Ferrer,P,"['RP', 'P']",1,,,FA
+12725,J.P. France,P,"['SP', 'P', 'IL']",0,IL60,,FA
+12728,Casey Legumina,P,"['RP', 'P']",0,,,FA
+12745,Roddery Muñoz,P,"['SP', 'P']",0,,,FA
+12746,Abner Uribe,P,"['RP', 'P']",2,,,FA
+12748,Ben Brown,P,"['SP', 'RP', 'P']",8,,,FA
+12751,George Soriano,P,"['RP', 'P']",0,,,FA
+12757,Colin Selby,P,"['RP', 'P']",0,,,FA
+12768,Kevin Kelly,P,"['RP', 'P', 'IL']",1,IL15,,FA
+60139,Logan Allen,P,"['SP', 'P']",3,,,FA
+60159,Jonathan Cannon,P,"['SP', 'P']",1,,,FA
+60178,Brant Hurter,P,"['RP', 'P']",1,,,FA
+60188,Spencer Arrighetti,P,"['SP', 'P', 'IL']",45,IL15,,FA
+60218,Ben Joyce,P,"['RP', 'P', 'IL']",24,IL15,,FA
+60231,Gavin Stone,P,"['SP', 'P', 'IL']",2,IL60,,FA
+60237,Kyle Hurt,P,"['RP', 'P', 'IL']",0,IL60,,FA
+60238,Emmet Sheehan,P,"['SP', 'P', 'IL']",0,IL60,,FA
+60239,Edgardo Henriquez,P,"['RP', 'P', 'IL']",0,IL15,,FA
+60269,David Festa,P,"['SP', 'P']",8,,,FA
+60281,Mike Vasil,P,"['SP', 'P']",0,,,FA
+60292,Christian Scott,P,"['SP', 'P', 'IL']",1,IL60,,FA
+60295,Will Warren,P,"['SP', 'P']",9,,,FA
+60297,Drew Thorpe,P,"['SP', 'P', 'IL']",0,IL60,,FA
+60306,Richard Fitts,P,"['SP', 'P']",9,,,FA
+60341,Kyle Nicolas,P,"['RP', 'P']",0,,,FA
+60360,Alek Jacob,P,"['RP', 'P']",0,,,FA
+60412,Mason Montgomery,P,"['RP', 'P']",3,,,FA
+60427,Kumar Rocker,P,"['SP', 'P']",34,,,FA
+60438,Marc Church,P,"['RP', 'P']",1,,,FA
+60440,Cody Bradford,P,"['SP', 'P', 'IL']",3,IL60,,FA
+60461,Zach Brzykcy,P,"['RP', 'P', 'IL']",0,IL15,,FA
+60570,Steven Cruz,P,"['RP', 'P']",0,,,FA
+60615,Robert Garcia,P,"['RP', 'P']",10,,,FA
+60626,Declan Cronin,P,"['RP', 'P', 'IL']",0,IL15,,FA
+60627,Fraser Ellard,P,"['RP', 'P', 'IL']",0,IL15,,FA
+60630,Jesse Scholtens,P,"['SP', 'RP', 'P', 'IL']",0,IL60,,FA
+60650,Landen Roupp,P,"['SP', 'RP', 'P']",14,,,FA
+60658,Cade Povich,P,"['SP', 'P']",4,,,FA
+60711,Brandon Eisert,P,"['RP', 'P']",0,,,FA
+60888,Chase Shugart,P,"['RP', 'P']",0,,,FA
+60907,Jared Jones,P,"['SP', 'P', 'IL']",56,IL60,,FA
+61273,Luarbert Arias,P,"['RP', 'P']",0,,,FA
+61285,Michel Otañez,P,"['RP', 'P', 'IL']",0,IL15,,FA
+61375,Ryan Zeferjahn,P,"['RP', 'P']",0,,,FA
+61384,Mitch Spence,P,"['SP', 'RP', 'P']",1,,,FA
+61395,Matt Waldron,P,"['SP', 'P', 'IL']",0,IL60,,FA
+61577,Cam Booser,P,"['RP', 'P']",0,,,FA
+61601,Kyle Leahy,P,"['RP', 'P']",0,,,FA
+61749,Chad Patrick,P,"['SP', 'P']",2,,,FA
+61755,Tyler Ferguson,P,"['RP', 'P']",1,,,FA
+61769,Nate Lavender,P,"['RP', 'P', 'IL']",0,IL60,,FA
+61839,Hunter Bigge,P,"['RP', 'P']",0,,,FA
+61854,Luis Contreras,P,"['RP', 'P']",0,,,FA
+61880,Easton Lucas,P,"['RP', 'P']",15,,,FA
+61987,Mason Fluharty,P,"['RP', 'P']",0,,,FA
+62004,Osvaldo Bido,P,"['SP', 'RP', 'P']",5,,,FA
+62045,Grant Anderson,P,"['RP', 'P']",0,,,FA
+62054,Sawyer Gipson-Long,P,"['SP', 'P', 'IL']",1,IL60,,FA
+62082,Anthony Veneziano,P,"['RP', 'P']",0,,,FA
+62085,Jordan Leasure,P,"['RP', 'P']",0,,,FA
+62256,Spencer Bivens,P,"['RP', 'P']",0,,,FA
+62262,Jack Dreyer,P,"['RP', 'P']",1,,,FA
+62399,Lake Bachar,P,"['RP', 'P']",0,,,FA
+62602,Troy Taylor,P,"['RP', 'P', 'IL']",0,IL15,,FA
+62861,Eduardo Salazar,P,"['RP', 'P']",0,,,FA
+62975,Chase Dollander,P,"['SP', 'P']",16,,,FA
+62977,Rhett Lowder,P,"['SP', 'P', 'IL']",5,IL15,,FA
+63091,Erik Sabrowski,P,"['RP', 'P', 'IL']",0,IL15,,FA
+63278,Daysbel Hernández,P,"['RP', 'P']",0,,,FA
+63299,DJ Herz,P,"['SP', 'P', 'IL']",1,IL60,,FA
+63330,Zach Penrod,P,"['RP', 'P', 'IL']",0,IL60,,FA
+63477,Brady Basso,P,"['SP', 'P', 'IL']",0,IL60,,FA
+63478,Angel Chivilli,P,"['RP', 'P']",0,,,FA
+63499,Ryan Fernandez,P,"['RP', 'P']",0,,,FA
+63533,Angel Bastardo,P,"['SP', 'P', 'IL']",0,IL60,,FA
+63548,Julian Aguiar,P,"['SP', 'P', 'IL']",0,IL60,,FA
+63577,River Ryan,P,"['SP', 'P', 'IL']",1,IL60,,FA
+63645,Yariel Rodríguez,P,"['SP', 'RP', 'P']",0,,,FA
+63720,Justin Sterner,P,"['RP', 'P']",1,,,FA
+63902,Michael Darrell-Hicks,P,"['RP', 'P']",0,,,FA
+63918,Ryan Gusto,P,"['SP', 'P']",2,,,FA
+63927,Connor Gillispie,P,"['SP', 'RP', 'P']",2,,,FA
+63967,Shane Smith,P,"['RP', 'P']",5,,,FA
+64014,Bryan King,P,"['RP', 'P']",2,,,FA
+7977,Andrew McCutchen,B,"['RF', 'Util']",2,,,FA
+8588,Justin Turner,B,"['1B', 'Util']",2,,,FA
+8621,Jason Heyward,B,"['LF', 'RF', 'Util']",0,,,FA
+8634,Giancarlo Stanton,B,"['RF', 'Util', 'IL']",13,IL10,,FA
+8848,Jose Iglesias,B,"['2B', '3B', 'Util']",0,,,FA
+8949,DJ LeMahieu,B,"['1B', '3B', 'Util', 'IL']",0,IL10,,FA
+9045,Martín Maldonado,B,"['C', 'Util']",0,,,FA
+9096,Travis d'Arnaud,B,"['C', 'Util']",1,,,FA
+9097,Gary Sánchez,B,"['C', 'Util']",0,,,FA
+9106,Anthony Rendon,B,"['3B', 'Util', 'IL']",0,IL60,,FA
+9112,Jurickson Profar,B,"['LF', 'Util']",20,SUSP,,FA
+9118,Starling Marte,B,"['RF', 'Util']",2,,,FA
+9190,Donovan Solano,B,"['1B', '3B', 'Util']",0,,,FA
+9336,Austin Hedges,B,"['C', 'Util']",0,,,FA
+9483,Wilmer Flores,B,"['1B', 'Util']",23,,,FA
+9490,Kevin Pillar,B,"['LF', 'CF', 'RF', 'Util']",0,,,FA
+9557,Javier Báez,B,"['SS', 'Util']",1,,,FA
+9558,Kris Bryant,B,"['1B', 'RF', 'Util']",2,,,FA
+9561,Jesse Winker,B,"['LF', 'RF', 'Util']",2,,,FA
+9570,Tom Murphy,B,"['C', 'Util', 'IL']",0,IL60,,FA
+9571,Trevor Story,B,"['SS', 'Util']",35,,,FA
+9610,J.P. Crawford,B,"['SS', 'Util']",2,,,FA
+9689,Randal Grichuk,B,"['LF', 'RF', 'Util']",1,,,FA
+9726,Miguel Rojas,B,"['2B', '3B', 'SS', 'Util']",1,,,FA
+9750,Jorge Polanco,B,"['2B', '3B', 'Util']",16,,,FA
+9754,Enrique Hernández,B,"['1B', '2B', '3B', 'SS', 'LF', 'CF', 'Util']",15,,,FA
+9762,Christian Vázquez,B,"['C', 'Util']",0,,,FA
+9771,Chris Taylor,B,"['2B', '3B', 'LF', 'Util']",0,,,FA
+9784,Michael A. Taylor,B,"['CF', 'Util']",0,,,FA
+9842,Tommy Pham,B,"['LF', 'CF', 'RF', 'Util']",1,,,FA
+9851,Rob Refsnyder,B,"['LF', 'CF', 'RF', 'Util']",0,,,FA
+9858,Manuel Margot,B,"['LF', 'CF', 'RF', 'Util', 'IL']",0,IL10,,FA
+9866,Derek Hill,B,"['LF', 'CF', 'Util']",1,,,FA
+9871,Orlando Arcia,B,"['SS', 'Util']",2,,,FA
+9883,Josh Bell,B,"['1B', 'Util']",7,,,FA
+9889,Hunter Renfroe,B,"['RF', 'Util']",1,,,FA
+9897,Tim Anderson,B,"['SS', 'Util']",0,,,FA
+9898,Mark Canha,B,"['1B', 'LF', 'RF', 'Util', 'IL']",0,IL10,,FA
+9900,Yoán Moncada,B,"['3B', 'Util', 'IL']",1,IL10,,FA
+9971,Austin Barnes,B,"['C', 'Util']",0,,,FA
+9991,Gio Urshela,B,"['1B', '3B', 'Util']",1,,,FA
+10076,Elias Díaz,B,"['C', 'Util']",1,,,FA
+10095,Max Kepler,B,"['LF', 'RF', 'Util']",5,,,FA
+10119,Mike Yastrzemski,B,"['CF', 'RF', 'Util']",8,,,FA
+10159,Andrew Benintendi,B,"['LF', 'Util', 'IL']",3,IL10,,FA
+10175,Ryan McMahon,B,"['3B', 'Util']",39,,,FA
+10195,Tyrone Taylor,B,"['LF', 'CF', 'RF', 'Util']",0,,,FA
+10203,Tyler Wade,B,"['2B', '3B', 'SS', 'LF', 'Util']",0,,,FA
+10227,Victor Robles,B,"['LF', 'CF', 'RF', 'Util', 'IL']",31,IL10,,FA
+10230,Brendan Rodgers,B,"['2B', 'Util']",1,,,FA
+10233,Amed Rosario,B,"['2B', '3B', 'SS', 'RF', 'Util']",3,,,FA
+10239,Jorge Mateo,B,"['2B', 'Util']",0,,,FA
+10318,Jacob Stallings,B,"['C', 'Util']",0,,,FA
+10322,Adam Frazier,B,"['2B', '3B', 'LF', 'RF', 'Util']",1,,,FA
+10328,Jeimer Candelario,B,"['1B', '3B', 'Util']",7,,,FA
+10344,Yuli Gurriel,B,"['1B', 'Util']",0,,,FA
+10456,Tyler Stephenson,B,"['C', 'Util', 'IL']",44,IL10,,FA
+10464,Will Benson,B,"['LF', 'CF', 'RF', 'Util']",0,,,FA
+10485,Ryan O'Hearn,B,"['1B', 'LF', 'RF', 'Util']",6,,,FA
+10497,Matt Thaiss,B,"['C', 'Util']",0,,,FA
+10499,Brandon Marsh,B,"['LF', 'CF', 'Util']",7,,,FA
+10511,Gavin Lux,B,"['2B', 'LF', 'Util']",6,,,FA
+10524,Mauricio Dubón,B,"['1B', '2B', '3B', 'LF', 'CF', 'RF', 'Util']",2,,,FA
+10533,Ben Rortvedt,B,"['C', 'Util']",0,,,FA
+10544,Miguel Andujar,B,"['LF', 'Util']",1,,,FA
+10556,Rhys Hoskins,B,"['1B', 'Util']",35,,,FA
+10557,Mickey Moniak,B,"['LF', 'CF', 'RF', 'Util']",1,,,FA
+10564,Kevin Newman,B,"['1B', '2B', 'SS', 'Util']",0,,,FA
+10566,Ke'Bryan Hayes,B,"['3B', 'Util']",9,,,FA
+10570,Luis Urías,B,"['3B', 'Util']",0,,,FA
+10591,Harrison Bader,B,"['LF', 'CF', 'Util']",4,,,FA
+10594,Edmundo Sosa,B,"['2B', '3B', 'SS', 'Util']",11,,,FA
+10600,Jake Bauers,B,"['1B', 'LF', 'RF', 'Util']",0,,,FA
+10607,Andy Ibáñez,B,"['1B', '2B', '3B', 'Util']",0,,,FA
+10608,Leody Taveras,B,"['CF', 'Util']",2,,,FA
+10620,Rowdy Tellez,B,"['1B', 'Util']",0,,,FA
+10669,Luis Torrens,B,"['C', 'Util']",1,,,FA
+10678,Kyle Higashioka,B,"['C', 'Util']",1,,,FA
+10713,Paul DeJong,B,"['3B', 'SS', 'Util']",2,,,FA
+10719,Austin Slater,B,"['LF', 'CF', 'RF', 'Util']",0,,,FA
+10747,Mike Tauchman,B,"['LF', 'CF', 'RF', 'Util', 'IL']",0,IL10,,FA
+10748,Victor Caratini,B,"['C', '1B', 'Util']",0,,,FA
+10775,Kyle Farmer,B,"['2B', '3B', 'SS', 'Util']",2,,,FA
+10789,Mitch Garver,B,"['C', 'Util']",1,,,FA
+10826,Austin Hays,B,"['LF', 'Util', 'IL']",3,IL10,,FA
+10842,Pavin Smith,B,"['1B', 'LF', 'RF', 'Util']",6,,,FA
+10843,Daulton Varsho,B,"['LF', 'CF', 'Util', 'IL']",7,IL10,,FA
+10865,Jose Siri,B,"['CF', 'Util']",1,,,FA
+10866,Taylor Trammell,B,"['LF', 'Util', 'IL']",0,IL10,,FA
+10868,Willi Castro,B,"['2B', '3B', 'SS', 'LF', 'CF', 'Util']",65,,,FA
+10873,Garrett Hampson,B,"['2B', 'LF', 'CF', 'Util']",0,,,FA
+10879,Gavin Sheets,B,"['1B', 'RF', 'Util']",10,,,FA
+10891,MJ Melendez,B,"['LF', 'Util']",1,,,FA
+10893,Jo Adell,B,"['CF', 'RF', 'Util']",5,,,FA
+10900,Jake Rogers,B,"['C', 'Util', 'IL']",1,IL10,,FA
+10923,Thairo Estrada,B,"['2B', 'Util', 'IL']",8,IL10,,FA
+10929,Sean Murphy,B,"['C', 'Util']",30,,,FA
+10944,Heliot Ramos,B,"['LF', 'CF', 'RF', 'Util']",81,,,FA
+10951,Jesús Sánchez,B,"['LF', 'CF', 'RF', 'Util', 'IL']",4,IL10,,FA
+10959,Danny Jansen,B,"['C', 'Util']",2,,,FA
+10992,Isiah Kiner-Falefa,B,"['2B', '3B', 'SS', 'Util']",22,,,FA
+11033,Austin Wynns,B,"['C', 'Util']",0,,,FA
+11038,Nick Martini,B,"['LF', 'RF', 'Util']",0,,,FA
+11045,Jose Trevino,B,"['C', 'Util']",1,,,FA
+11075,Miguel Amaya,B,"['C', 'Util']",6,,,FA
+11077,Eric Haase,B,"['C', 'Util']",0,,,FA
+11086,Cavan Biggio,B,"['1B', '2B', '3B', 'RF', 'Util']",0,,,FA
+11097,Joey Bart,B,"['C', 'Util']",17,DTD,,FA
+11118,Jeff McNeil,B,"['2B', 'LF', 'RF', 'Util', 'IL']",3,IL10,,FA
+11124,Ramón Laureano,B,"['LF', 'CF', 'RF', 'Util']",0,,,FA
+11153,Pablo Reyes,B,"['2B', '3B', 'Util']",0,,,FA
+11165,Myles Straw,B,"['CF', 'Util']",0,,,FA
+11169,Jon Berti,B,"['3B', 'Util']",2,,,FA
+11172,Dylan Moore,B,"['1B', '2B', '3B', 'SS', 'LF', 'Util']",25,,,FA
+11174,LaMonte Wade Jr.,B,"['1B', 'RF', 'Util']",2,,,FA
+11231,Ty France,B,"['1B', 'Util']",3,,,FA
+11238,Lane Thomas,B,"['CF', 'RF', 'Util']",52,DTD,,FA
+11239,Ramón Urías,B,"['3B', 'Util']",1,,,FA
+11265,Jake McCarthy,B,"['LF', 'CF', 'RF', 'Util']",22,,,FA
+11267,Alek Thomas,B,"['CF', 'Util']",2,,,FA
+11272,Drew Waters,B,"['CF', 'RF', 'Util']",0,,,FA
+11289,Stuart Fairchild,B,"['LF', 'CF', 'RF', 'Util']",0,,,FA
+11293,Michael Siani,B,"['CF', 'Util']",0,,,FA
+11296,Bo Naylor,B,"['C', 'Util']",6,,,FA
+11306,Nick Madrigal,B,"['2B', '3B', 'Util', 'IL']",0,IL60,,FA
+11309,Kody Clemens,B,"['1B', '3B', 'Util']",0,,,FA
+11310,Parker Meadows,B,"['CF', 'Util', 'IL']",12,IL60,,FA
+11321,Nicky Lopez,B,"['2B', 'SS', 'Util']",0,,,FA
+11326,Leo Rivas,B,"['2B', 'SS', 'Util']",0,,,FA
+11347,Trevor Larnach,B,"['LF', 'RF', 'Util']",3,,,FA
+11349,Francisco Alvarez,B,"['C', 'Util', 'IL']",31,IL10,,FA
+11351,Ronny Mauricio,B,"['2B', 'Util', 'IL']",1,IL10,,FA
+11359,Nick Allen,B,"['SS', 'Util']",0,,,FA
+11382,Jarred Kelenic,B,"['LF', 'CF', 'RF', 'Util']",1,,,FA
+11385,Alexander Canario,B,"['LF', 'Util']",0,,,FA
+11390,Luken Baker,B,"['1B', 'Util']",0,,,FA
+11391,Nolan Gorman,B,"['2B', 'Util', 'IL']",4,IL10,,FA
+11395,Vidal Bruján,B,"['2B', '3B', 'SS', 'CF', 'Util', 'IL']",0,IL10,,FA
+11402,Eli White,B,"['CF', 'RF', 'Util']",0,,,FA
+11415,Blaze Alexander,B,"['2B', '3B', 'SS', 'Util', 'IL']",0,IL10,,FA
+11437,Jhonny Pereda,B,"['C', 'Util']",0,,,FA
+11448,Brayan Rocchio,B,"['SS', 'Util']",1,,,FA
+11471,Kyle Isbel,B,"['CF', 'Util']",1,,,FA
+11472,Blake Perkins,B,"['LF', 'CF', 'RF', 'Util', 'IL']",0,IL10,,FA
+11483,Connor Wong,B,"['C', '1B', 'Util', 'IL']",14,IL10,,FA
+11496,Jose Miranda,B,"['1B', '3B', 'Util']",2,,,FA
+11524,Gabriel Arias,B,"['2B', '3B', 'SS', 'Util']",1,,,FA
+11529,Noelvi Marte,B,"['3B', 'Util']",4,,,FA
+11555,Griffin Conine,B,"['LF', 'RF', 'Util']",1,,,FA
+11556,Santiago Espinal,B,"['2B', '3B', 'Util']",0,,,FA
+11568,Jake Fraley,B,"['LF', 'RF', 'Util']",1,,,FA
+11623,Josh Rojas,B,"['2B', '3B', 'Util', 'IL']",0,IL10,,FA
+11643,Seth Brown,B,"['1B', 'LF', 'RF', 'Util']",0,,,FA
+11652,Tyler Heineman,B,"['C', 'Util']",0,,,FA
+11662,Jonah Heim,B,"['C', 'Util']",16,,,FA
+11692,Jake Cronenworth,B,"['1B', '2B', 'Util', 'IL']",30,IL10,,FA
+11733,Kyle Stowers,B,"['LF', 'CF', 'RF', 'Util']",1,,,FA
+11754,Tyler Freeman,B,"['SS', 'CF', 'Util']",1,,,FA
+11761,Wenceel Pérez,B,"['CF', 'RF', 'Util', 'IL']",0,IL60,,FA
+11767,Korey Lee,B,"['C', 'Util', 'IL']",0,IL10,,FA
+11768,Jeremy Peña,B,"['SS', 'Util']",74,,,FA
+11777,Jacob Amaya,B,"['SS', 'Util']",0,,,FA
+11781,Miguel Vargas,B,"['3B', 'LF', 'Util']",2,,,FA
+11782,JJ Bleday,B,"['CF', 'Util']",27,,,FA
+11783,Jerar Encarnación,B,"['RF', 'Util', 'IL']",1,IL10,,FA
+11784,Kameron Misner,B,['Util'],2,,,FA
+11794,Ryan Jeffers,B,"['C', 'Util']",21,,,FA
+11795,Matt Wallner,B,"['LF', 'RF', 'Util']",24,,,FA
+11796,Brett Baty,B,"['2B', '3B', 'Util']",2,,,FA
+11813,Rafael Marchán,B,"['C', 'Util']",0,,,FA
+11814,Nick Maton,B,"['3B', 'Util']",0,,,FA
+11849,Sam Huff,B,"['C', 'Util']",0,,,FA
+11850,Josh Jung,B,"['3B', 'Util']",64,,,FA
+11853,Alejandro Kirk,B,"['C', 'Util']",12,,,FA
+11866,Andrew Vaughn,B,"['1B', 'Util']",14,,,FA
+11871,Luis Matos,B,"['CF', 'RF', 'Util']",1,,,FA
+11878,Luisangel Acuña,B,"['SS', 'Util']",4,,,FA
+11886,Ezequiel Duran,B,"['1B', '3B', 'SS', 'LF', 'Util']",0,,,FA
+11891,Taylor Walls,B,"['SS', 'Util']",0,,,FA
+11892,Ernie Clement,B,"['3B', 'SS', 'Util']",1,,,FA
+11912,Chas McCormick,B,"['LF', 'CF', 'RF', 'Util']",2,,,FA
+11913,Jake Meyers,B,"['CF', 'Util']",1,,,FA
+11914,Spencer Torkelson,B,"['1B', 'Util']",59,,,FA
+11928,Dillon Dingler,B,"['C', 'Util']",4,,,FA
+11997,Riley Adams,B,"['C', 'Util']",0,,,FA
+11999,Joshua Palacios,B,"['LF', 'CF', 'RF', 'Util']",0,,,FA
+12013,Freddy Fermin,B,"['C', 'Util']",1,,,FA
+12024,Jordan Walker,B,"['LF', 'RF', 'Util']",17,,,FA
+12025,Masyn Winn,B,"['SS', 'Util']",63,DTD,,FA
+12049,Nick Gonzales,B,"['2B', 'SS', 'Util', 'IL']",3,IL10,,FA
+12097,Oswald Peraza,B,"['3B', 'Util']",0,,,FA
+12116,Ha-Seong Kim,B,"['SS', 'Util', 'IL']",5,IL10,,FA
+12121,Heston Kjerstad,B,"['LF', 'RF', 'Util']",7,,,FA
+12133,Zac Veen,B,"['RF', 'Util']",25,,,FA
+12148,Andy Pages,B,"['CF', 'RF', 'Util']",3,,,FA
+12160,Endy Rodríguez,B,"['C', '1B', 'Util']",2,,,FA
+12210,Matt Vierling,B,"['3B', 'LF', 'CF', 'RF', 'Util', 'IL']",3,IL10,,FA
+12226,Pedro León,B,"['RF', 'Util', 'IL']",0,IL10,,FA
+12236,Bryan De La Cruz,B,"['LF', 'RF', 'Util']",2,,,FA
+12250,Yohel Pozo,B,"['C', 'Util']",0,,,FA
+12262,Romy González,B,"['1B', '2B', '3B', 'SS', 'Util']",1,,,FA
+12271,Nick Fortes,B,"['C', 'Util', 'IL']",0,IL10,,FA
+12292,Jose Herrera,B,"['C', 'Util']",0,,,FA
+12313,Jhonkensy Noel,B,"['RF', 'Util']",1,,,FA
+12316,Richie Palacios,B,"['2B', 'LF', 'CF', 'RF', 'Util', 'IL']",0,IL10,,FA
+12318,José Tena,B,"['2B', '3B', 'Util']",0,,,FA
+12319,Jonah Bride,B,"['1B', '3B', 'Util']",1,,,FA
+12331,Oswaldo Cabrera,B,"['1B', '2B', '3B', 'Util']",3,,,FA
+12342,Jack Suwinski,B,"['LF', 'CF', 'RF', 'Util']",0,,,FA
+12358,Ryan Bliss,B,"['2B', 'Util', 'IL']",1,IL10,,FA
+12369,Colton Cowser,B,"['LF', 'CF', 'RF', 'Util', 'IL']",75,IL10,,FA
+12370,Connor Norby,B,"['2B', '3B', 'Util', 'IL']",15,IL10,,FA
+12400,Angel Martínez,B,"['LF', 'CF', 'Util']",0,,,FA
+12409,Hunter Goodman,B,"['C', 'LF', 'RF', 'Util']",32,,,FA
+12420,Lenyn Sosa,B,"['2B', '3B', 'Util']",1,,,FA
+12428,Ryan Kreidler,B,"['SS', 'CF', 'Util']",0,,,FA
+12431,Gage Workman,B,"['3B', 'SS', 'Util']",0,,,FA
+12494,Trey Sweeney,B,"['SS', 'Util']",1,,,FA
+12499,Brandon Lockridge,B,"['CF', 'Util']",0,,,FA
+12501,Max Muncy,B,"['2B', 'SS', 'Util']",1,,,FA
+12503,Zack Gelof,B,"['2B', 'Util', 'IL']",14,IL10,,FA
+12508,Johan Rojas,B,"['CF', 'Util']",0,,,FA
+12544,Casey Schmitt,B,"['2B', '3B', 'SS', 'Util']",0,,,FA
+12558,Curtis Mead,B,"['2B', '3B', 'Util']",2,,,FA
+12562,Josh Smith,B,"['3B', 'SS', 'Util']",12,,,FA
+12567,Dustin Harris,B,"['3B', 'CF', 'Util']",0,,,FA
+12607,Vinny Capra,B,"['3B', 'Util']",0,,,FA
+12619,Dairon Blanco,B,"['LF', 'CF', 'RF', 'Util', 'IL']",0,IL10,,FA
+12639,Sean Bouchard,B,"['LF', 'RF', 'Util']",0,,,FA
+12653,Alex Call,B,"['LF', 'CF', 'RF', 'Util']",3,,,FA
+12657,Michael Massey,B,"['2B', 'Util']",4,,,FA
+12688,Spencer Steer,B,"['1B', 'LF', 'Util']",71,,,FA
+12704,Miles Mastrobuoni,B,"['2B', '3B', 'SS', 'Util']",0,,,FA
+12711,Enmanuel Valdez,B,"['1B', '2B', 'Util']",0,,,FA
+12714,Nathan Lukes,B,"['LF', 'CF', 'RF', 'Util']",0,,,FA
+12726,Jonny DeLuca,B,"['LF', 'CF', 'RF', 'Util', 'IL']",2,IL10,,FA
+12729,Edouard Julien,B,"['2B', 'Util']",1,,,FA
+12732,David Hamilton,B,"['2B', 'SS', 'Util']",2,,,FA
+12742,Spencer Horwitz,B,"['1B', '2B', 'Util', 'IL']",2,IL10,,FA
+12758,Jared Triolo,B,"['2B', '3B', 'SS', 'Util', 'IL']",0,IL10,,FA
+12763,Masataka Yoshida,B,"['LF', 'Util', 'IL']",4,IL10,,FA
+12767,Blake Sabol,B,"['C', 'Util']",0,,,FA
+12777,Matt Mervis,B,"['1B', 'Util']",2,,,FA
+60061,Dominic Canzone,B,"['LF', 'RF', 'Util']",0,,,FA
+60064,Tim Tawa,B,"['2B', 'Util']",1,,,FA
+60077,Drake Baldwin,B,"['C', 'Util']",3,,,FA
+60111,Christian Koss,B,"['SS', 'Util']",0,,,FA
+60131,Christian Encarnacion-Strand,B,"['1B', 'Util']",31,,,FA
+60173,Justyn-Henry Malloy,B,"['LF', 'Util']",1,,,FA
+60266,Brooks Lee,B,"['2B', '3B', 'SS', 'Util', 'IL']",3,IL10,,FA
+60411,Kyle Manzardo,B,"['1B', 'Util']",37,,,FA
+60431,Thomas Saggese,B,"['2B', 'Util']",1,,,FA
+60467,Alan Roden,B,"['LF', 'RF', 'Util']",2,,,FA
+60536,Carlos Narváez,B,"['C', 'Util']",1,,,FA
+60595,Weston Wilson,B,"['LF', 'Util', 'IL']",0,IL10,,FA
+60671,J.C. Escarra,B,"['C', '1B', '3B', 'Util']",0,,,FA
+60776,José Caballero,B,"['2B', '3B', 'SS', 'Util']",7,,,FA
+61258,Hayden Senger,B,"['C', 'Util']",0,,,FA
+61346,Tyler Fitzgerald,B,"['2B', 'SS', 'CF', 'Util']",24,,,FA
+61382,Andrés Chaparro,B,"['1B', 'Util', 'IL']",0,IL10,,FA
+61613,Pedro Pagés,B,"['C', 'Util']",3,,,FA
+61637,Tyler Tolbert,B,"['CF', 'Util']",0,,,FA
+61672,DaShawn Keirsey Jr.,B,"['CF', 'Util']",0,,,FA
+61681,Davis Schneider,B,"['2B', 'LF', 'Util']",0,,,FA
+61682,Will Wagner,B,"['2B', '3B', 'Util']",2,,,FA
+61785,Mickey Gasper,B,['Util'],0,,,FA
+61866,Isaac Collins,B,"['LF', 'Util']",0,,,FA
+61948,Daniel Schneemann,B,"['2B', '3B', 'SS', 'CF', 'RF', 'Util']",0,,,FA
+62057,Nacho Alvarez Jr.,B,"['2B', 'Util', 'IL']",0,IL10,,FA
+62078,Max Schuemann,B,"['2B', '3B', 'SS', 'Util']",0,,,FA
+62138,Jacob Young,B,"['CF', 'Util']",3,,,FA
+62183,Eric Wagaman,B,"['3B', 'Util']",0,,,FA
+62194,Javier Sanoja,B,['Util'],0,,,FA
+62212,Oliver Dunn,B,"['3B', 'Util']",0,,,FA
+62217,Dane Myers,B,"['CF', 'RF', 'Util']",1,,,FA
+62315,Blake Dunn,B,"['LF', 'Util']",0,,,FA
+62488,Zach Dezenzo,B,"['1B', 'Util']",0,,,FA
+62504,Chase Meidroth,B,"['2B', '3B', 'SS', 'Util']",2,,,FA
+62953,Nolan Schanuel,B,"['1B', 'Util']",10,,,FA

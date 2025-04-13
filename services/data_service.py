@@ -49,7 +49,7 @@ def standardize_pitcher_stats(df: pd.DataFrame) -> pd.DataFrame:
             if col in ['SB', 'ERA', 'K/BB']:
                 mean = df[col].mean()
                 std = df[col].std()
-                upper_limit = mean + 4 * std
+                upper_limit = mean + 1.5 * std
                 df[col] = np.where(df[col] > upper_limit, upper_limit, df[col])
             min_val = df[col].min()
             max_val = df[col].max()

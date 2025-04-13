@@ -15,13 +15,13 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 458.l.111045.t.3,Chiba Lotte Marines,9124,Zack Wheeler,,P,"['SP', 'P']",SP
 458.l.111045.t.3,Chiba Lotte Marines,64803,Roki Sasaki,,P,"['SP', 'P']",SP
 458.l.111045.t.3,Chiba Lotte Marines,10432,Tanner Scott,,P,"['RP', 'P']",RP
-458.l.111045.t.3,Chiba Lotte Marines,8616,Aroldis Chapman,,P,"['RP', 'P']",RP
+458.l.111045.t.3,Chiba Lotte Marines,10569,Clay Holmes,,P,"['SP', 'RP', 'P']",RP
 458.l.111045.t.3,Chiba Lotte Marines,12776,Kodai Senga,,P,"['SP', 'P']",P
 458.l.111045.t.3,Chiba Lotte Marines,9727,Kirby Yates,,P,"['RP', 'P']",P
 458.l.111045.t.3,Chiba Lotte Marines,12733,Tim Herrin,,P,"['RP', 'P']",P
 458.l.111045.t.3,Chiba Lotte Marines,10217,Luke Weaver,,P,"['RP', 'P']",P
-458.l.111045.t.3,Chiba Lotte Marines,11482,Edwin Uceta,,P,"['RP', 'P']",BN
-458.l.111045.t.3,Chiba Lotte Marines,10569,Clay Holmes,,P,"['SP', 'RP', 'P']",BN
+458.l.111045.t.3,Chiba Lotte Marines,8616,Aroldis Chapman,,P,"['RP', 'P']",BN
+458.l.111045.t.3,Chiba Lotte Marines,12215,Tylor Megill,,P,"['SP', 'P']",BN
 458.l.111045.t.10,Oklahoma Mixers💃,9015,Salvador Perez,,B,"['C', '1B', 'Util']",C
 458.l.111045.t.10,Oklahoma Mixers💃,10918,Pete Alonso,,B,"['1B', 'Util']",1B
 458.l.111045.t.10,Oklahoma Mixers💃,60090,Jackson Holliday,,B,"['2B', 'SS', 'Util']",2B
@@ -57,8 +57,8 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 458.l.111045.t.4,💪AvailabilityIsTheBestAbility,61888,Victor Scott II,,B,"['CF', 'Util']",CF
 458.l.111045.t.4,💪AvailabilityIsTheBestAbility,9877,Aaron Judge,,B,"['LF', 'CF', 'RF', 'Util']",RF
 458.l.111045.t.4,💪AvailabilityIsTheBestAbility,9319,Xander Bogaerts,,B,"['2B', 'SS', 'Util']",Util
-458.l.111045.t.4,💪AvailabilityIsTheBestAbility,10577,Bryan Reynolds,,B,"['LF', 'CF', 'RF', 'Util']",Util
-458.l.111045.t.4,💪AvailabilityIsTheBestAbility,9876,Brandon Nimmo,,B,"['LF', 'CF', 'Util']",BN
+458.l.111045.t.4,💪AvailabilityIsTheBestAbility,9876,Brandon Nimmo,,B,"['LF', 'CF', 'Util']",Util
+458.l.111045.t.4,💪AvailabilityIsTheBestAbility,10577,Bryan Reynolds,,B,"['LF', 'CF', 'RF', 'Util']",BN
 458.l.111045.t.4,💪AvailabilityIsTheBestAbility,9517,Marcus Semien,,B,"['2B', 'Util']",BN
 458.l.111045.t.4,💪AvailabilityIsTheBestAbility,62984,Matt Shaw,,B,"['2B', '3B', 'SS', 'Util']",BN
 458.l.111045.t.4,💪AvailabilityIsTheBestAbility,8658,Freddie Freeman,,B,"['1B', 'Util']",IL
@@ -153,14 +153,14 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 458.l.111045.t.1,💥 Takeshi's Busters,12390,Matt McLain,IL10,B,"['2B', 'SS', 'Util', 'IL']",2B
 458.l.111045.t.1,💥 Takeshi's Busters,9507,José Ramírez,,B,"['3B', 'Util']",3B
 458.l.111045.t.1,💥 Takeshi's Busters,10234,Dansby Swanson,,B,"['SS', 'Util']",SS
-458.l.111045.t.1,💥 Takeshi's Busters,9875,Michael Conforto,,B,"['LF', 'Util']",LF
-458.l.111045.t.1,💥 Takeshi's Busters,12480,Jackson Chourio,,B,"['LF', 'CF', 'RF', 'Util']",CF
+458.l.111045.t.1,💥 Takeshi's Busters,12480,Jackson Chourio,,B,"['LF', 'CF', 'RF', 'Util']",LF
+458.l.111045.t.1,💥 Takeshi's Busters,12157,Pete Crow-Armstrong,,B,"['CF', 'Util']",CF
 458.l.111045.t.1,💥 Takeshi's Busters,12212,Lars Nootbaar,,B,"['LF', 'CF', 'RF', 'Util']",RF
-458.l.111045.t.1,💥 Takeshi's Busters,12157,Pete Crow-Armstrong,,B,"['CF', 'Util']",Util
 458.l.111045.t.1,💥 Takeshi's Busters,9893,Willy Adames,,B,"['SS', 'Util']",Util
+458.l.111045.t.1,💥 Takeshi's Busters,11768,Jeremy Peña,,B,"['SS', 'Util']",Util
 458.l.111045.t.1,💥 Takeshi's Busters,11210,Luis Rengifo,,B,"['2B', '3B', 'Util']",BN
 458.l.111045.t.1,💥 Takeshi's Busters,11855,Gabriel Moreno,,B,"['C', 'Util']",BN
-458.l.111045.t.1,💥 Takeshi's Busters,12309,Jonathan Aranda,,B,"['1B', '2B', 'Util']",BN
+458.l.111045.t.1,💥 Takeshi's Busters,11782,JJ Bleday,,B,"['CF', 'Util']",BN
 458.l.111045.t.1,💥 Takeshi's Busters,9701,Jacob deGrom,,P,"['SP', 'P']",SP
 458.l.111045.t.1,💥 Takeshi's Busters,11263,Yusei Kikuchi,,P,"['SP', 'P']",SP
 458.l.111045.t.1,💥 Takeshi's Busters,12505,Mason Miller,,P,"['RP', 'P']",RP
@@ -168,9 +168,9 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 458.l.111045.t.1,💥 Takeshi's Busters,11920,Alex Vesia,,P,"['RP', 'P']",P
 458.l.111045.t.1,💥 Takeshi's Busters,10627,Jesús Luzardo,,P,"['SP', 'P']",P
 458.l.111045.t.1,💥 Takeshi's Busters,12695,Louis Varland,,P,"['SP', 'RP', 'P']",P
-458.l.111045.t.1,💥 Takeshi's Busters,11789,Drew Rasmussen,,P,"['SP', 'RP', 'P']",P
+458.l.111045.t.1,💥 Takeshi's Busters,63500,Justin Slaten,,P,"['RP', 'P']",P
 458.l.111045.t.1,💥 Takeshi's Busters,12015,Max Meyer,,P,"['SP', 'P']",BN
-458.l.111045.t.1,💥 Takeshi's Busters,63500,Justin Slaten,,P,"['RP', 'P']",BN
+458.l.111045.t.1,💥 Takeshi's Busters,11789,Drew Rasmussen,,P,"['SP', 'RP', 'P']",BN
 458.l.111045.t.1,💥 Takeshi's Busters,12561,Jack Leiter,IL15,P,"['SP', 'P', 'IL']",IL
 458.l.111045.t.1,💥 Takeshi's Busters,8193,Max Scherzer,IL15,P,"['SP', 'P', 'IL']",IL
 458.l.111045.t.11,🐧Tokyo Sparrows🐧,12435,Yainer Diaz,,B,"['C', '1B', 'Util']",C
@@ -305,16 +305,19 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,Waiver,9095,Yu Darvish,IL15,P,"['SP', 'P', 'IL']",Waiver
 ,Waiver,9265,Rob Brantly,,B,"['C', 'Util']",Waiver
 ,Waiver,9606,Max Muncy,,B,"['3B', 'Util']",Waiver
+,Waiver,9875,Michael Conforto,,B,"['LF', 'Util']",Waiver
 ,Waiver,10186,J.D. Davis,,B,"['1B', '3B', 'Util']",Waiver
 ,Waiver,10337,Omar Narváez,,B,"['C', 'Util']",Waiver
 ,Waiver,10395,Carson Kelly,,B,"['C', 'Util']",Waiver
 ,Waiver,10413,Anthony Banda,,P,"['RP', 'P']",Waiver
 ,Waiver,10677,Casey Lawrence,,P,"['RP', 'P']",Waiver
 ,Waiver,10916,Royce Lewis,IL10,B,"['3B', 'Util', 'IL']",Waiver
+,Waiver,11482,Edwin Uceta,,P,"['RP', 'P']",Waiver
 ,Waiver,11759,Michael Toglia,,B,"['1B', 'RF', 'Util']",Waiver
 ,Waiver,12038,Landon Knack,,P,"['SP', 'P']",Waiver
 ,Waiver,12100,Otto Lopez,,B,"['2B', 'SS', 'Util']",Waiver
 ,Waiver,12275,Dylan Lee,,P,"['RP', 'P']",Waiver
+,Waiver,12309,Jonathan Aranda,,B,"['1B', '2B', 'Util']",Waiver
 ,Waiver,12687,Jeremiah Estrada,,P,"['RP', 'P']",Waiver
 ,Waiver,60623,Jake Mangum,,B,"['LF', 'CF', 'RF', 'Util']",Waiver
 ,FA,7590,Justin Verlander,,P,"['SP', 'P']",FA
@@ -553,7 +556,6 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,FA,12202,Zach Thompson,,P,"['RP', 'P']",FA
 ,FA,12205,Sam Long,,P,"['RP', 'P']",FA
 ,FA,12211,Jake Cousins,IL60,P,"['RP', 'P', 'IL']",FA
-,FA,12215,Tylor Megill,,P,"['SP', 'P']",FA
 ,FA,12242,Tyler Gilbert,,P,"['RP', 'P']",FA
 ,FA,12258,Scott Effross,IL15,P,"['RP', 'P', 'IL']",FA
 ,FA,12265,Ryan Feltner,DTD,P,"['SP', 'P']",FA
@@ -703,7 +705,6 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,FA,63927,Connor Gillispie,,P,"['SP', 'RP', 'P']",FA
 ,FA,63967,Shane Smith,,P,"['RP', 'P']",FA
 ,FA,64014,Bryan King,,P,"['RP', 'P']",FA
-,FA,64367,Ryan Johnson,,P,"['SP', 'P']",FA
 ,FA,7977,Andrew McCutchen,,B,"['RF', 'Util']",FA
 ,FA,8588,Justin Turner,,B,"['1B', 'Util']",FA
 ,FA,8621,Jason Heyward,,B,"['LF', 'RF', 'Util']",FA
@@ -862,10 +863,8 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,FA,11754,Tyler Freeman,DTD,B,"['SS', 'CF', 'Util']",FA
 ,FA,11761,Wenceel Pérez,IL60,B,"['CF', 'RF', 'Util', 'IL']",FA
 ,FA,11767,Korey Lee,IL10,B,"['C', 'Util', 'IL']",FA
-,FA,11768,Jeremy Peña,,B,"['SS', 'Util']",FA
 ,FA,11777,Jacob Amaya,,B,"['SS', 'Util']",FA
 ,FA,11781,Miguel Vargas,,B,"['3B', 'LF', 'Util']",FA
-,FA,11782,JJ Bleday,,B,"['CF', 'Util']",FA
 ,FA,11783,Jerar Encarnación,IL10,B,"['RF', 'Util', 'IL']",FA
 ,FA,11784,Kameron Misner,,B,"['CF', 'Util']",FA
 ,FA,11785,Nasim Nuñez,,B,"['SS', 'Util']",FA
@@ -953,32 +952,3 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,FA,60131,Christian Encarnacion-Strand,,B,"['1B', 'Util']",FA
 ,FA,60173,Justyn-Henry Malloy,,B,"['LF', 'Util']",FA
 ,FA,60266,Brooks Lee,IL10,B,"['2B', '3B', 'SS', 'Util', 'IL']",FA
-,FA,60411,Kyle Manzardo,,B,"['1B', 'Util']",FA
-,FA,60431,Thomas Saggese,,B,"['2B', 'Util']",FA
-,FA,60467,Alan Roden,,B,"['LF', 'RF', 'Util']",FA
-,FA,60536,Carlos Narváez,,B,"['C', 'Util']",FA
-,FA,60595,Weston Wilson,IL10,B,"['LF', 'Util', 'IL']",FA
-,FA,60671,J.C. Escarra,,B,"['C', '1B', '3B', 'Util']",FA
-,FA,60689,Coco Montes,,B,"['2B', '3B', 'Util']",FA
-,FA,60776,José Caballero,,B,"['2B', '3B', 'SS', 'Util']",FA
-,FA,61258,Hayden Senger,,B,"['C', 'Util']",FA
-,FA,61382,Andrés Chaparro,IL10,B,"['1B', 'Util', 'IL']",FA
-,FA,61613,Pedro Pagés,,B,"['C', 'Util']",FA
-,FA,61637,Tyler Tolbert,,B,"['CF', 'Util']",FA
-,FA,61672,DaShawn Keirsey Jr.,,B,"['CF', 'Util']",FA
-,FA,61681,Davis Schneider,,B,"['2B', 'LF', 'Util']",FA
-,FA,61682,Will Wagner,,B,"['2B', '3B', 'Util']",FA
-,FA,61785,Mickey Gasper,,B,['Util'],FA
-,FA,61866,Isaac Collins,,B,"['LF', 'Util']",FA
-,FA,61948,Daniel Schneemann,,B,"['2B', '3B', 'SS', 'CF', 'RF', 'Util']",FA
-,FA,62057,Nacho Alvarez Jr.,IL10,B,"['2B', 'Util', 'IL']",FA
-,FA,62078,Max Schuemann,,B,"['2B', '3B', 'SS', 'Util']",FA
-,FA,62138,Jacob Young,,B,"['CF', 'Util']",FA
-,FA,62183,Eric Wagaman,,B,"['3B', 'Util']",FA
-,FA,62194,Javier Sanoja,,B,['Util'],FA
-,FA,62212,Oliver Dunn,,B,"['3B', 'Util']",FA
-,FA,62217,Dane Myers,,B,"['CF', 'RF', 'Util']",FA
-,FA,62315,Blake Dunn,,B,"['LF', 'Util']",FA
-,FA,62488,Zach Dezenzo,,B,"['1B', 'Util']",FA
-,FA,62504,Chase Meidroth,,B,"['2B', '3B', 'SS', 'Util']",FA
-,FA,62953,Nolan Schanuel,,B,"['1B', 'Util']",FA

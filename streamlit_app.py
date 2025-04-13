@@ -29,21 +29,6 @@ fg_projection_system_dict = {
     'DC': 'rfangraphsdc',
     'ZIPS': 'rzips'
 }
-# pitcher_proj_system = st.sidebar.selectbox(
-#     "Pitcher Projection System",
-#     options=list(fg_projection_system_dict.keys()),
-#     index=list(fg_projection_system_dict.keys()).index('OOPSY'),
-#     key="pitcher_proj_system_selectbox"
-# )
-# pitcher_proj_system_value = fg_projection_system_dict[pitcher_proj_system]
-
-# batter_proj_system = st.sidebar.selectbox(
-#     "Batter Projection System",
-#     options=list(fg_projection_system_dict.keys()),
-#     index=list(fg_projection_system_dict.keys()).index('THE BAT X'),
-#     key="batter_proj_system_selectbox"
-# )
-# batter_proj_system_value = fg_projection_system_dict[batter_proj_system]
 
 week_option = st.sidebar.selectbox("Select Roster Week", ["Current Week", "Next Week"], index=0)
 current_week = get_current_week(league_id)

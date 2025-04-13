@@ -42,6 +42,48 @@ def merge_all_data(df_all_players, df_player_id_map, df_fg_pitcher, df_fg_batter
 
     return df_pitcher, df_batter
 
+def pitcher_stats_calc(df_pitcher: pd.DataFrame) -> pd.DataFrame:
+    df_pitcher['IP'] = df_pitcher['IP_ATC']
+    df_pitcher['W'] = df_pitcher['W_ATC']
+    df_pitcher['HR'] = df_pitcher['HR_STEA']
+    df_pitcher['BB'] = df_pitcher['BB_STEA']
+    df_pitcher['SO'] = df_pitcher['SO_OOP']
+    df_pitcher['H'] = df_pitcher['H_ATC']
+    df_pitcher['ERA'] = df_pitcher['ERA_ATC']
+    df_pitcher['K/BB'] = df_pitcher['K/BB_STEA']
+    # df_pitcher['RAPP'] = df_pitcher['RAPP_DC']
+    df_pitcher['QS'] = df_pitcher['QS_DC']
+    df_pitcher['SV'] = df_pitcher['SV_DC']
+    df_pitcher['HLD'] = df_pitcher['HLD_DC']
+    df_pitcher['G'] = df_pitcher['G_DC']
+    df_pitcher['GS'] = df_pitcher['GS_DC']
+
+    df_pitcher['SV+H'] = df_pitcher['SV'] + df_pitcher['HLD']
+    df_pitcher['RAPP'] = df_pitcher['G'] - df_pitcher['GS']
+    df_pitcher['rate_sbx'] = df_pitcher['rate_sbx'].fillna(0.014)
+    df_pitcher['SB_oppo'] = (df_pitcher['H'] + df_pitcher['BB'])
+    df_pitcher['SB'] = df_pitcher['SB_oppo'] * df_pitcher['rate_sbx']
+    df_pitcher = df_pitcher[['team_name', 'name', 'status', 'position_type', 'eligible_positions', 'selected_position', 'IP', 'W', 'HR', 'BB', 'SO', 'SB', 'ERA', 'K/BB', 'RAPP', 'QS', 'SV+H']]
+    return df_pitcher
+
+
+def batter_stats_calc(df_batter: pd.DataFrame) -> pd.DataFrame:
+    df_batter['R'] = df_batter['R_BATX']
+    df_batter['H'] = df_batter['H_ATC']
+    df_batter['HR'] = df_batter['HR_BATX']
+    df_batter['RBI'] = df_batter['RBI_BATX']
+    df_batter['SH'] = df_batter['SH_DC']
+    df_batter['BB'] = df_batter['BB_BATX']
+    df_batter['SO'] = df_batter['SO_STEA']
+    df_batter['OPS'] = df_batter['OPS_BATX']
+    df_batter['SB'] = df_batter['SB_ZIPS']
+    df_batter['CS'] = df_batter['CS_ZIPS']
+
+    df_batter['NSB'] = df_batter['SB'] + df_batter['CS']
+    df_batter = df_batter[['team_name', 'name', 'status', 'position_type', 'eligible_positions', 'selected_position', 'R', 'H', 'HR', 'RBI', 'SH', 'BB', 'SO', 'OPS', 'NSB']]
+
+    return df_batter
+
 def standardize_pitcher_stats(df: pd.DataFrame) -> pd.DataFrame:
     target_cols = ['IP', 'W', 'HR', 'BB', 'SO', 'SB', 'ERA', 'K/BB', 'RAPP', 'QS', 'SV+H']
     for col in target_cols:
@@ -107,8 +149,18 @@ def apply_position_filters(df, position_key=""):
 
 def style_pitcher_stats(df: pd.DataFrame):
     pts_cols = [col for col in df.columns if col.endswith("_pts") or col == "Total_pts"]
-    format_dict = {col: "{:.0f}" for col in df.columns if col.endswith("_pts") or col == "Total_pts"}
-    format_dict.update({"IP": "{:.0f}", "ERA": "{:.2f}", "K/BB": "{:.2f}", "SB": "{:.0f}"})
+    format_dict = {col: "{:.0f}" for col in pts_cols}
+    # 整数で表示したい元カラム
+    int_cols = ["IP", "W", "HR", "BB", "SO", "SB", "RAPP", "QS", "SV+H"]
+    for col in int_cols:
+        if col in df.columns:
+            format_dict[col] = "{:.0f}"
+
+    # 小数点第3位まで表示したいカラム
+    float_cols = ["ERA", "K/BB"]
+    for col in float_cols:
+        if col in df.columns:
+            format_dict[col] = "{:.2f}"
     return df.style.format(format_dict).background_gradient(subset=pts_cols, cmap="bwr", axis=0)
 
 def style_batter_stats(df: pd.DataFrame):

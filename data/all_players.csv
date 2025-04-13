@@ -161,6 +161,7 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 458.l.111045.t.1,💥 Takeshi's Busters,11210,Luis Rengifo,,B,"['2B', '3B', 'Util']",BN
 458.l.111045.t.1,💥 Takeshi's Busters,11855,Gabriel Moreno,,B,"['C', 'Util']",BN
 458.l.111045.t.1,💥 Takeshi's Busters,11782,JJ Bleday,,B,"['CF', 'Util']",BN
+458.l.111045.t.1,💥 Takeshi's Busters,12025,Masyn Winn,IL10,B,"['SS', 'Util', 'IL']",IL
 458.l.111045.t.1,💥 Takeshi's Busters,9701,Jacob deGrom,,P,"['SP', 'P']",SP
 458.l.111045.t.1,💥 Takeshi's Busters,11263,Yusei Kikuchi,,P,"['SP', 'P']",SP
 458.l.111045.t.1,💥 Takeshi's Busters,12505,Mason Miller,,P,"['RP', 'P']",RP
@@ -207,12 +208,12 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 458.l.111045.t.2,👁️ Yuta's LASIKs,9584,Corey Seager,,B,"['SS', 'Util']",SS
 458.l.111045.t.2,👁️ Yuta's LASIKs,10496,Taylor Ward,,B,"['LF', 'Util']",LF
 458.l.111045.t.2,👁️ Yuta's LASIKs,63494,Jung Hoo Lee,,B,"['CF', 'Util']",CF
-458.l.111045.t.2,👁️ Yuta's LASIKs,10504,Cody Bellinger,,B,"['1B', 'CF', 'RF', 'Util']",RF
 458.l.111045.t.2,👁️ Yuta's LASIKs,10465,Yandy Díaz,,B,"['1B', 'Util']",Util
 458.l.111045.t.2,👁️ Yuta's LASIKs,9339,George Springer,,B,"['RF', 'Util']",Util
 458.l.111045.t.2,👁️ Yuta's LASIKs,10616,Lourdes Gurriel Jr.,,B,"['LF', 'Util']",BN
 458.l.111045.t.2,👁️ Yuta's LASIKs,11221,Luis Arraez,,B,"['1B', '2B', 'Util']",BN
 458.l.111045.t.2,👁️ Yuta's LASIKs,12550,Alec Burleson,,B,"['1B', 'LF', 'RF', 'Util']",BN
+458.l.111045.t.2,👁️ Yuta's LASIKs,11822,CJ Abrams,IL10,B,"['SS', 'Util', 'IL']",BN
 458.l.111045.t.2,👁️ Yuta's LASIKs,10843,Daulton Varsho,IL10,B,"['LF', 'CF', 'Util', 'IL']",IL
 458.l.111045.t.2,👁️ Yuta's LASIKs,11763,Tarik Skubal,,P,"['SP', 'P']",SP
 458.l.111045.t.2,👁️ Yuta's LASIKs,62972,Paul Skenes,,P,"['SP', 'P']",SP
@@ -282,24 +283,26 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 458.l.111045.t.7,Chicago Beers🍺,10572,Josh Naylor,,B,"['1B', 'Util']",1B
 458.l.111045.t.7,Chicago Beers🍺,11284,Nico Hoerner,,B,"['2B', 'SS', 'Util']",2B
 458.l.111045.t.7,Chicago Beers🍺,10420,Austin Riley,,B,"['3B', 'Util']",3B
-458.l.111045.t.7,Chicago Beers🍺,11731,Gunnar Henderson,,B,"['SS', 'Util']",SS
+458.l.111045.t.7,Chicago Beers🍺,9116,Francisco Lindor,,B,"['SS', 'Util']",SS
 458.l.111045.t.7,Chicago Beers🍺,11104,Randy Arozarena,,B,"['LF', 'CF', 'Util']",LF
 458.l.111045.t.7,Chicago Beers🍺,12056,Michael Harris II,,B,"['CF', 'Util']",CF
-458.l.111045.t.7,Chicago Beers🍺,9228,Jorge Soler,,B,"['RF', 'Util']",RF
-458.l.111045.t.7,Chicago Beers🍺,11822,CJ Abrams,IL10,B,"['SS', 'Util', 'IL']",Util
-458.l.111045.t.7,Chicago Beers🍺,9116,Francisco Lindor,,B,"['SS', 'Util']",Util
+458.l.111045.t.7,Chicago Beers🍺,10504,Cody Bellinger,,B,"['1B', 'CF', 'RF', 'Util']",RF
+458.l.111045.t.7,Chicago Beers🍺,11731,Gunnar Henderson,,B,"['SS', 'Util']",Util
+458.l.111045.t.7,Chicago Beers🍺,11778,Michael Busch,,B,"['1B', 'Util']",Util
+458.l.111045.t.7,Chicago Beers🍺,9228,Jorge Soler,,B,"['RF', 'Util']",BN
 458.l.111045.t.7,Chicago Beers🍺,12430,Colt Keith,,B,"['2B', 'Util']",BN
-458.l.111045.t.7,Chicago Beers🍺,11778,Michael Busch,,B,"['1B', 'Util']",BN
 458.l.111045.t.7,Chicago Beers🍺,62971,Dylan Crews,,B,"['CF', 'RF', 'Util']",BN
 458.l.111045.t.7,Chicago Beers🍺,10438,Dylan Cease,,P,"['SP', 'P']",SP
-458.l.111045.t.7,Chicago Beers🍺,12096,Bailey Ober,,P,"['SP', 'P']",SP
+458.l.111045.t.7,Chicago Beers🍺,10862,Hunter Greene,,P,"['SP', 'P']",SP
 458.l.111045.t.7,Chicago Beers🍺,11526,Andrés Muñoz,,P,"['RP', 'P']",RP
 458.l.111045.t.7,Chicago Beers🍺,10274,Carlos Estévez,,P,"['RP', 'P']",RP
-458.l.111045.t.7,Chicago Beers🍺,60137,Tanner Bibee,,P,"['SP', 'P']",P
-458.l.111045.t.7,Chicago Beers🍺,10862,Hunter Greene,,P,"['SP', 'P']",P
+458.l.111045.t.7,Chicago Beers🍺,12401,Gavin Williams,,P,"['SP', 'P']",P
 458.l.111045.t.7,Chicago Beers🍺,9815,Yimi García,,P,"['RP', 'P']",P
-458.l.111045.t.7,Chicago Beers🍺,9547,Hunter Harvey,IL15,P,"['RP', 'P', 'IL']",P
-458.l.111045.t.7,Chicago Beers🍺,12401,Gavin Williams,,P,"['SP', 'P']",BN
+458.l.111045.t.7,Chicago Beers🍺,60658,Cade Povich,,P,"['SP', 'P']",P
+458.l.111045.t.7,Chicago Beers🍺,12665,Hunter Gaddis,,P,"['RP', 'P']",P
+458.l.111045.t.7,Chicago Beers🍺,12096,Bailey Ober,,P,"['SP', 'P']",BN
+458.l.111045.t.7,Chicago Beers🍺,60137,Tanner Bibee,,P,"['SP', 'P']",BN
+458.l.111045.t.7,Chicago Beers🍺,9547,Hunter Harvey,IL15,P,"['RP', 'P', 'IL']",IL
 458.l.111045.t.7,Chicago Beers🍺,11826,George Kirby,IL15,P,"['SP', 'P', 'IL']",IL
 458.l.111045.t.7,Chicago Beers🍺,12281,Spencer Strider,IL15,P,"['SP', 'P', 'IL']",IL
 ,Waiver,9095,Yu Darvish,IL15,P,"['SP', 'P', 'IL']",Waiver
@@ -310,12 +313,9 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,Waiver,10337,Omar Narváez,,B,"['C', 'Util']",Waiver
 ,Waiver,10395,Carson Kelly,,B,"['C', 'Util']",Waiver
 ,Waiver,10413,Anthony Banda,,P,"['RP', 'P']",Waiver
-,Waiver,10677,Casey Lawrence,,P,"['RP', 'P']",Waiver
 ,Waiver,10916,Royce Lewis,IL10,B,"['3B', 'Util', 'IL']",Waiver
 ,Waiver,11482,Edwin Uceta,,P,"['RP', 'P']",Waiver
-,Waiver,11759,Michael Toglia,,B,"['1B', 'RF', 'Util']",Waiver
 ,Waiver,12038,Landon Knack,,P,"['SP', 'P']",Waiver
-,Waiver,12100,Otto Lopez,,B,"['2B', 'SS', 'Util']",Waiver
 ,Waiver,12275,Dylan Lee,,P,"['RP', 'P']",Waiver
 ,Waiver,12309,Jonathan Aranda,,B,"['1B', '2B', 'Util']",Waiver
 ,Waiver,12687,Jeremiah Estrada,,P,"['RP', 'P']",Waiver
@@ -413,6 +413,7 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,FA,10644,Cionel Pérez,,P,"['RP', 'P']",FA
 ,FA,10657,Paul Sewald,,P,"['RP', 'P']",FA
 ,FA,10660,Jordan Montgomery,IL60,P,"['SP', 'P', 'IL']",FA
+,FA,10677,Casey Lawrence,,P,"['RP', 'P']",FA
 ,FA,10681,Mark Leiter Jr.,,P,"['RP', 'P']",FA
 ,FA,10691,Emilio Pagán,,P,"['RP', 'P']",FA
 ,FA,10711,John Brebbia,,P,"['RP', 'P']",FA
@@ -507,7 +508,6 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,FA,11608,José Urquidy,IL60,P,"['SP', 'P', 'IL']",FA
 ,FA,11626,Kevin Ginkel,IL15,P,"['RP', 'P', 'IL']",FA
 ,FA,11634,John Schreiber,,P,"['RP', 'P']",FA
-,FA,11648,Cole Sulser,,P,"['RP', 'P']",FA
 ,FA,11653,Gabe Speier,,P,"['RP', 'P']",FA
 ,FA,11684,Kyle Hart,,P,"['SP', 'P']",FA
 ,FA,11689,Luis Gil,IL60,P,"['SP', 'P', 'IL']",FA
@@ -575,13 +575,12 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,FA,12345,Kyle Bradish,IL60,P,"['SP', 'P', 'IL']",FA
 ,FA,12347,Logan Gillaspie,,P,"['RP', 'P']",FA
 ,FA,12356,Ryne Nelson,,P,"['SP', 'P']",FA
-,FA,12366,AJ Smith-Shawver,,P,"['SP', 'P']",FA
 ,FA,12368,Victor Vodnik,,P,"['RP', 'P']",FA
 ,FA,12376,Chris Murphy,IL60,P,"['RP', 'P', 'IL']",FA
 ,FA,12392,Graham Ashcraft,,P,"['SP', 'RP', 'P']",FA
 ,FA,12395,Andrew Abbott,,P,"['SP', 'P']",FA
 ,FA,12418,Sean Burke,,P,"['SP', 'P']",FA
-,FA,12422,Jackson Jobe,,P,"['RP', 'P']",FA
+,FA,12422,Jackson Jobe,,P,"['SP', 'RP', 'P']",FA
 ,FA,12423,Ty Madden,IL60,P,"['RP', 'P', 'IL']",FA
 ,FA,12429,Reese Olson,,P,"['SP', 'P']",FA
 ,FA,12438,Chayce McDermott,IL15,P,"['SP', 'P', 'IL']",FA
@@ -607,7 +606,6 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,FA,12635,Jake Bird,,P,"['RP', 'P']",FA
 ,FA,12658,Huascar Brazoban,,P,"['RP', 'P']",FA
 ,FA,12661,Brennan Bernardino,,P,"['SP', 'RP', 'P']",FA
-,FA,12665,Hunter Gaddis,,P,"['RP', 'P']",FA
 ,FA,12673,Andrew Nardi,IL60,P,"['RP', 'P', 'IL']",FA
 ,FA,12677,Bryan Hoeing,IL15,P,"['RP', 'P', 'IL']",FA
 ,FA,12682,Javier Assad,IL15,P,"['SP', 'P', 'IL']",FA
@@ -628,6 +626,7 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,FA,12751,George Soriano,,P,"['RP', 'P']",FA
 ,FA,12757,Colin Selby,,P,"['RP', 'P']",FA
 ,FA,12768,Kevin Kelly,IL15,P,"['RP', 'P', 'IL']",FA
+,FA,60134,Joe Boyle,,P,"['SP', 'P']",FA
 ,FA,60139,Logan Allen,,P,"['SP', 'P']",FA
 ,FA,60159,Jonathan Cannon,,P,"['SP', 'P']",FA
 ,FA,60178,Brant Hurter,,P,"['RP', 'P']",FA
@@ -642,7 +641,6 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,FA,60292,Christian Scott,IL60,P,"['SP', 'P', 'IL']",FA
 ,FA,60295,Will Warren,,P,"['SP', 'P']",FA
 ,FA,60297,Drew Thorpe,IL60,P,"['SP', 'P', 'IL']",FA
-,FA,60306,Richard Fitts,DTD,P,"['SP', 'P']",FA
 ,FA,60341,Kyle Nicolas,,P,"['RP', 'P']",FA
 ,FA,60360,Alek Jacob,,P,"['RP', 'P']",FA
 ,FA,60412,Mason Montgomery,,P,"['RP', 'P']",FA
@@ -650,13 +648,13 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,FA,60438,Marc Church,,P,"['RP', 'P']",FA
 ,FA,60440,Cody Bradford,IL60,P,"['SP', 'P', 'IL']",FA
 ,FA,60461,Zach Brzykcy,IL15,P,"['RP', 'P', 'IL']",FA
+,FA,60569,Evan Sisk,,P,"['RP', 'P']",FA
 ,FA,60570,Steven Cruz,,P,"['RP', 'P']",FA
 ,FA,60615,Robert Garcia,,P,"['RP', 'P']",FA
 ,FA,60626,Declan Cronin,IL15,P,"['RP', 'P', 'IL']",FA
 ,FA,60627,Fraser Ellard,IL15,P,"['RP', 'P', 'IL']",FA
 ,FA,60630,Jesse Scholtens,IL60,P,"['SP', 'RP', 'P', 'IL']",FA
 ,FA,60650,Landen Roupp,,P,"['SP', 'RP', 'P']",FA
-,FA,60658,Cade Povich,,P,"['SP', 'P']",FA
 ,FA,60711,Brandon Eisert,,P,"['RP', 'P']",FA
 ,FA,60907,Jared Jones,IL60,P,"['SP', 'P', 'IL']",FA
 ,FA,61285,Michel Otañez,IL15,P,"['RP', 'P', 'IL']",FA
@@ -692,6 +690,7 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,FA,63278,Daysbel Hernández,,P,"['RP', 'P']",FA
 ,FA,63299,DJ Herz,IL60,P,"['SP', 'P', 'IL']",FA
 ,FA,63330,Zach Penrod,IL60,P,"['RP', 'P', 'IL']",FA
+,FA,63448,Michael Petersen,,P,"['RP', 'P']",FA
 ,FA,63477,Brady Basso,IL60,P,"['SP', 'P', 'IL']",FA
 ,FA,63478,Angel Chivilli,,P,"['RP', 'P']",FA
 ,FA,63499,Ryan Fernandez,,P,"['RP', 'P']",FA
@@ -721,7 +720,7 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,FA,9336,Austin Hedges,,B,"['C', 'Util']",FA
 ,FA,9483,Wilmer Flores,,B,"['1B', 'Util']",FA
 ,FA,9490,Kevin Pillar,,B,"['LF', 'CF', 'RF', 'Util']",FA
-,FA,9557,Javier Báez,,B,"['SS', 'Util']",FA
+,FA,9557,Javier Báez,,B,"['3B', 'SS', 'Util']",FA
 ,FA,9558,Kris Bryant,,B,"['1B', 'RF', 'Util']",FA
 ,FA,9561,Jesse Winker,,B,"['LF', 'RF', 'Util']",FA
 ,FA,9570,Tom Murphy,IL60,B,"['C', 'Util', 'IL']",FA
@@ -848,7 +847,6 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,FA,11471,Kyle Isbel,,B,"['CF', 'Util']",FA
 ,FA,11472,Blake Perkins,IL10,B,"['LF', 'CF', 'RF', 'Util', 'IL']",FA
 ,FA,11483,Connor Wong,IL10,B,"['C', '1B', 'Util', 'IL']",FA
-,FA,11496,Jose Miranda,,B,"['1B', '3B', 'Util']",FA
 ,FA,11524,Gabriel Arias,,B,"['2B', '3B', 'SS', 'Util']",FA
 ,FA,11529,Noelvi Marte,,B,"['3B', 'Util']",FA
 ,FA,11555,Griffin Conine,,B,"['LF', 'RF', 'Util']",FA
@@ -861,6 +859,7 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,FA,11692,Jake Cronenworth,IL10,B,"['1B', '2B', 'Util', 'IL']",FA
 ,FA,11733,Kyle Stowers,,B,"['LF', 'CF', 'RF', 'Util']",FA
 ,FA,11754,Tyler Freeman,DTD,B,"['SS', 'CF', 'Util']",FA
+,FA,11759,Michael Toglia,,B,"['1B', 'RF', 'Util']",FA
 ,FA,11761,Wenceel Pérez,IL60,B,"['CF', 'RF', 'Util', 'IL']",FA
 ,FA,11767,Korey Lee,IL10,B,"['C', 'Util', 'IL']",FA
 ,FA,11777,Jacob Amaya,,B,"['SS', 'Util']",FA
@@ -890,9 +889,9 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,FA,11999,Joshua Palacios,,B,"['LF', 'CF', 'RF', 'Util']",FA
 ,FA,12013,Freddy Fermin,,B,"['C', 'Util']",FA
 ,FA,12024,Jordan Walker,,B,"['LF', 'RF', 'Util']",FA
-,FA,12025,Masyn Winn,IL10,B,"['SS', 'Util', 'IL']",FA
 ,FA,12049,Nick Gonzales,IL10,B,"['2B', 'SS', 'Util', 'IL']",FA
 ,FA,12097,Oswald Peraza,,B,"['3B', 'Util']",FA
+,FA,12100,Otto Lopez,,B,"['2B', 'SS', 'Util']",FA
 ,FA,12116,Ha-Seong Kim,IL10,B,"['SS', 'Util', 'IL']",FA
 ,FA,12121,Heston Kjerstad,,B,"['LF', 'RF', 'Util']",FA
 ,FA,12133,Zac Veen,,B,"['RF', 'Util']",FA
@@ -951,4 +950,4 @@ team_key,team_name,player_id,name,status,position_type,eligible_positions,select
 ,FA,60111,Christian Koss,,B,"['SS', 'Util']",FA
 ,FA,60131,Christian Encarnacion-Strand,,B,"['1B', 'Util']",FA
 ,FA,60173,Justyn-Henry Malloy,,B,"['LF', 'Util']",FA
-,FA,60266,Brooks Lee,IL10,B,"['2B', '3B', 'SS', 'Util', 'IL']",FA
+,FA,60266,Brooks Lee,,B,"['2B', '3B', 'SS', 'Util']",FA
